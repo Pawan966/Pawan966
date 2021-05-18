@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 Hello I am Pawan Harwani, currently an undergrad (3rd year) at LNMIIT.
 I am interested in Competitive Programming.
 I am currently learning Android Development as well to work on a good project for placements.
-This is mail id : pawanharwani11@gmail.com
+This is my mail id : pawanharwani11@gmail.com
